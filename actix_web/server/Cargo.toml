@@ -1,0 +1,8 @@
+[package]
+name = "server"
+version = "0.1.0"
+authors = ["Tomohide Takao <amakunai.dorayaki@gmail.com>"]
+
+[dependencies]
+actix = "0.7"
+actix-web = "0.7"
